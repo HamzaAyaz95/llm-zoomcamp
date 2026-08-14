@@ -1,0 +1,15 @@
+venv/
+.venv/
+env/
+__pycache__/
+*.pyc
+*.pyo
+.env
+.env.*
+eval_results.json
+faq.db
+faq.db-shm
+faq.db-wal
+faq_vectors2.db-wal
+faq_vectors2.db-shm
+faq_vectors2.db
